@@ -1,0 +1,10 @@
+
+.Titulo{
+    position: absolute;
+    left:35%;
+}
+.Retangulo{
+    position: absolute;
+    left:100%;
+    top:25%;
+}
