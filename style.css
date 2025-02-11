@@ -8,3 +8,9 @@
     left:100%;
     top:25%;
 }
+
+  body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, #ffb347, #974e2c); /* Gradiente de laranja claro para laranja escuro */
+  }
